@@ -1,0 +1,17 @@
+The Time Attack challenge takes place within the Trackmania Nations Forever game engine. Teams are required to achieve high-speed times in two distinct environments: a "seen" course available from the start of the challenge, and a "custom/unseen" course that is only revealed during the testing period.
+
+Operational Requirements
+Teams must use the provided online platform to publish lap times to the leaderboard. The competition involves both human-driven times and potential applications of machine learning (ML) or Artificial Intelligence (AI) to optimize racing lines.
+
+Criteria and Outcomes
+The scoring system for this challenge rewards both baseline completion and high-level performance metrics, including competitive rankings.
+
+Points	Challenge	Level
+20	Complete "seen" course and publish time.	Base
+5	Complete "seen" course with NO human input (e.g., AI/ML).	Easy/Moderate
+15	Complete "seen" course with NO human input AND beat the judge's time.	Moderate
+10-0	Top 10 teams on the leaderboard for the "seen" course.	Hard
+20	Complete a full lap of the "unseen" custom course.	Moderate/Hard
+15	Complete "unseen" course and beat the development team's time.	Hard
+10-0	Top 10 teams on the leaderboard for the "unseen" course.	Hard
+5	Set a real-world speed record (Top 10) in any tool-assisted category.	Hard
