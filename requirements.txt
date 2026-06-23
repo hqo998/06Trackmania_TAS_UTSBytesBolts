@@ -1,0 +1,12 @@
+# Core automation layer for TMNF.
+# NOTE: the tminterface Python client speaks to TMInterface < 2.0.0 (socket API).
+# Pin the GAME-SIDE TMInterface install to a 1.x release (e.g. 1.4.3).
+tminterface==1.0.0
+
+numpy
+opencv-python      # screenshot-based LIDAR extraction (fallback perception)
+pillow
+
+# Optional: generalizing RL fallback driver for the unseen course.
+# Heavy install (PyTorch); only add on Day 3 if pursuing the RL seed path.
+# tmrl

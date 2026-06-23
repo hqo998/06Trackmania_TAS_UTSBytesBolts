@@ -1,0 +1,86 @@
+5. Challenge 2: Time Attack
+This challenge involves Software and Machine Learning, focusing on speed and precision in a simulated environment using the Trackmania Nations Forever game engine. The competition involves two distinct courses: one "seen" course distributed to all teams, and one "unseen" course available only during testing.
+
+Challenge Criteria Table
+Points 
+
+Challenge
+
+Level
+
+Rough field
+
+Points 
+
+Challenge
+
+Lvl
+
+Rough field
+
+20
+
+Complete the “seen” course available from challenge commencement, and publish a lap time to the leaderboard through the online platform. 
+
+Base completion level to score points
+
+Software Engineering, Ai, Game Design
+
+5
+
+Complete the “seen” course available from challenge commencement without any human input, publishing a time to the leaderboard
+
+Easy/Moderate
+
+Software Engineering, Ai, Game Design
+
+15
+
+Complete the “seen” course available from challenge commencement without any human input, publishing a time to the leaderboard and beating the course time set by the judges. 
+
+Moderate
+
+Software Engineering, Ai, Game Design
+
+10~0
+
+Top 10 teams on the leaderboard get points between 10 and 1, with faster times achieving higher points for the “seen” course. 
+
+Hard
+
+Software Engineering, Ai, Game Design
+
+20
+
+Complete a full lap of a custom course unseen until testing, and publish a lap time to the leaderboard through the online platform. 
+
+
+
+Testing will allow for 5 minutes of setup time and 3 attempts. 
+
+Moderate/hard
+
+Software Engineering, Ai, Game Design
+
+15
+
+Complete a full lap of a custom course unseen until testing, publish a lap time to the leaderboard through the online platform and beat a course time set by the development team.
+
+
+Testing will allow for 5 minutes of setup time and 3 attempts
+
+Hard
+
+Software Engineering, Ai, Game Design
+
+10~0
+
+Top 10 teams on the leaderboard get points between 10 and 1, with faster times achieving higher points for the unseen course available on testing day
+
+Hard
+
+Software Engineering, Ai, Game Design
+
+---
+Extra Information from Judge
+
